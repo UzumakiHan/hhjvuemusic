@@ -68,3 +68,6 @@ export default {
 | musicCover | 是       | String          |
 | musicUrl   | 是       | String          |
 
+## 效果展示：
+
+![](https://i.loli.net/2021/05/07/AUBNHwbIfZjVMXu.png)
